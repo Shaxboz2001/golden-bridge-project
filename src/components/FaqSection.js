@@ -51,7 +51,15 @@ const FaqSection = () => {
             quidem.
           </p>
         </div>
-        <div className="faq-line"></div>
+        <div className="faq-line">
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt
+            eum amet ipsam, dolor corrupti porro, modi molestiae aperiam quaerat
+            enim quibusdam doloribus itaque excepturi quos fuga autem distinctio
+            laboriosam explicabo. At dolores iure reprehenderit omnis quas ut
+            accusantium ex repellendus. Possimus molestias facilis accusantium.
+          </p>
+        </div>
       </div>
     </Faq>
   );
